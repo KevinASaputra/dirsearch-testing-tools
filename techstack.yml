@@ -1,7 +1,8 @@
 repo_name: KevinASaputra/dirsearch-testing-tools
 report_id: e7cf648828ae9d735e975c7309489cab
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-08T10:34:26+00:00'
+timestamp: '2024-01-05T08:27:36+00:00'
 requested_by: maurosoria
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-03-02 17:19:11.000000000 Z
@@ -28,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools
   detection_source: Repo Metadata
 - name: MySQL
   description: The world's most popular open source database
@@ -37,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-02-05 10:03:28.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/db/400_blacklist.txt
   detection_source: db/400_blacklist.txt
   last_updated_by: shelld3v
   last_updated_on: 2020-09-28 06:22:49.000000000 Z
@@ -60,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -69,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -78,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: shelld3v
   last_updated_on: 2022-08-17 17:40:15.000000000 Z
@@ -89,6 +97,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-02-05 10:03:28.000000000 Z
@@ -98,6 +107,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/lib/reports/templates/html_report_template.html
   detection_source: lib/reports/templates/html_report_template.html
   last_updated_by: Wyatt Dahlenburg
   last_updated_on: 2021-05-07 02:16:24.000000000 Z
@@ -109,6 +119,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/db/400_blacklist.txt
   detection_source: db/400_blacklist.txt
   last_updated_by: shelld3v
   last_updated_on: 2020-09-28 06:22:49.000000000 Z
@@ -122,7 +133,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20098/default_5297f13e5d732665caff8f16d9bfcd71481f98b6.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-03-02 17:19:11.000000000 Z
@@ -136,7 +147,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-07-27 08:14:53.000000000 Z
@@ -150,7 +161,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-02-28 08:14:05.000000000 Z
@@ -171,7 +182,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-03-02 17:19:11.000000000 Z
@@ -185,7 +196,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20210/default_6796c4086c025d18cdc673750b208b846d8e0914.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-03-05 15:05:07.000000000 Z
@@ -199,7 +210,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20794/default_9ca241da01759150a631f1a4419765b91249245f.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-10-28 08:37:45.000000000 Z
@@ -213,7 +224,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19881/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: shelld3v
   last_updated_on: 2022-03-10 06:51:33.000000000 Z
@@ -227,7 +238,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Phan
   last_updated_on: 2023-09-17 06:23:10.000000000 Z
@@ -248,7 +259,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20128/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
-  detection_source_url: github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
+  detection_source_url: https://github.com/KevinASaputra/dirsearch-testing-tools/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Phan
   last_updated_on: 2023-09-17 06:23:10.000000000 Z
